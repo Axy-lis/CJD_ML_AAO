@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# Large local-only source dumps kept out of the public repo.
+src/data/airr_raw.tsv
+src/data/airr_testing.csv

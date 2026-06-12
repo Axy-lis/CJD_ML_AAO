@@ -1,0 +1,56 @@
+{
+  "kmer_vectorizer": {
+    "ngram_range": [
+      3,
+      3
+    ],
+    "min_df": 1,
+    "vocab_size": 137,
+    "feature_names_preview": [
+      "AAS",
+      "ADC",
+      "AFA",
+      "AHT",
+      "AKG",
+      "ALG",
+      "AMG",
+      "AQA",
+      "ARH",
+      "ARS",
+      "ASG",
+      "ASP",
+      "ASQ",
+      "ASR",
+      "AST",
+      "ASW",
+      "AVF",
+      "AYA",
+      "AYW",
+      "CSS",
+      "CTA",
+      "DCT",
+      "DFG",
+      "DGY",
+      "DLH"
+    ]
+  },
+  "physchem_feature_names": [
+    "length",
+    "hydrophobic_fraction",
+    "aromatic_fraction",
+    "positive_fraction",
+    "negative_fraction",
+    "net_charge_per_residue",
+    "gly_pro_fraction"
+  ],
+  "shapes": {
+    "X_kmer": [
+      21,
+      137
+    ],
+    "X_phys": [
+      21,
+      7
+    ]
+  }
+}

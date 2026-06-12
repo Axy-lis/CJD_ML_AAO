@@ -1,0 +1,12 @@
+    A dataset: a table of rows (examples) and columns (features and a label you want to predict).
+
+    Features: the input data/attributes (e.g., sequence length, charge, binding affinity).
+
+    Label: the value or class you want to predict (e.g., “prion-targeting: yes/no”).
+
+    Model: an algorithm that learns from existing data so it can predict the label of new data.
+
+    Train/test split: divide your data so you can check if your model works on unseen examples.
+
+    Evaluate: measure performance (accuracy, etc.) on test set.
+

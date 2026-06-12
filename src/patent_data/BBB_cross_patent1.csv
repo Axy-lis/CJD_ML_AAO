@@ -1,0 +1,7 @@
+source	criterion	chain	seq_id	sequence_aa	label	confidence	notes
+BBB_cross_patent1	BBB_crossing_proxy	heavy	SEQ_ID_31+32	GYFTNYDHWKQRPGQGEWG	1	medium	Heavy CDR1 reconstructed by concatenating SEQ ID NO:31 and SEQ ID NO:32 from sequence listing.
+BBB_cross_patent1	BBB_crossing_proxy	heavy	SEQ_ID_33	WYPGDGSTKYEKFKG	1	high	Heavy CDR2 from sequence listing.
+BBB_cross_patent1	BBB_crossing_proxy	heavy	SEQ_ID_35+36	EAYWGQGTTTVSA	1	medium	Heavy CDR3 reconstructed by concatenating SEQ ID NO:35 (EAY) and SEQ ID NO:36 (WGQGTTTVSA).
+BBB_cross_patent1	BBB_crossing_proxy	light	SEQ_ID_39	YQQKPGKAPKLY	1	high	Light CDR1 from sequence listing.
+BBB_cross_patent1	BBB_crossing_proxy	light	SEQ_ID_42	LQYSSSPT	1	high	Light CDR3 from sequence listing.
+BBB_cross_patent1	BBB_crossing_proxy	light	SEQ_ID_41	GVPSRFSGSGSGTDYTFISSLQPEDAYYC	1	low	11-aa type says 29 aa; likely framework/CDR2-adjacent fragment; included as extracted. CDR2 not cleanly extractable from PDF text.

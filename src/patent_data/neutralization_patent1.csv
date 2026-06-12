@@ -1,0 +1,5 @@
+source,criterion,antibody,chain,seq_id,sequence_type,sequence,label,confidence,notes
+US7550144B2,PrPSc_neutralization,ICSM35,heavy,SEQ_ID_1,DNA,atggaatggacctgggtcattctcttcc...ctgggggcaaggcaccactic,1,high,Inhibits prion replication in vivo
+US7550144B2,PrPSc_neutralization,ICSM35,light,SEQ_ID_2,DNA,atggtgtccacagcttcagttccttggtctt...ggcaccalagctggaaatcaa,1,high,Inhibits prion replication in vivo
+US7550144B2,PrPSc_neutralization,ICSM18,heavy,SEQ_ID_3,DNA,atggaatggagctgggttittcctcttcctcctgtcaggaa...actgtct,1,high,Inhibits prion replication in vivo
+US7550144B2,PrPSc_neutralization,ICSM18,light,SEQ_ID_4,DNA,atggatttacaggtgcagattatcagottcctdctaatcagtgcctcagt...agtgttagtga,1,high,Inhibits prion replication in vivo

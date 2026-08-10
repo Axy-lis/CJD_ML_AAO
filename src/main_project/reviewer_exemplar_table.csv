@@ -1,0 +1,22 @@
+source_file,source_record,antibody_or_record,chain_or_guess,region_used,exact_sequence_used,sequence_length,model_role,reported_target_form,evidence_note
+neutralization_patent2.csv,SEQ_ID_1,ab120,heavy,CDR1,TYAMG,5,neutralization,not stated in source row,Included from US9296819 neutralization source.
+neutralization_patent2.csv,SEQ_ID_2,ab120,heavy,CDR2,VITKSGNTYYASWAKG,16,neutralization,not stated in source row,Included from US9296819 neutralization source.
+neutralization_patent2.csv,SEQ_ID_3,ab120,heavy,CDR3,YGIGVSYYDI,10,neutralization,not stated in source row,Source note says primary specificity determinant.
+neutralization_patent2.csv,SEQ_ID_4,ab120,light,CDR1,QSSQSLYNKNWLS,13,neutralization,not stated in source row,Included from US9296819 neutralization source.
+neutralization_patent2.csv,SEQ_ID_5,ab120,light,CDR2,KASTLES,7,neutralization,not stated in source row,Included from US9296819 neutralization source.
+neutralization_patent2.csv,SEQ_ID_6,ab120,light,CDR3,QGEFSCSSADCTA,13,neutralization,not stated in source row,Included from US9296819 neutralization source.
+neutralization_patent2.csv,SEQ_ID_7,ab120,light,variable-region-derived CDR3,QSSQSLYNKN,10,neutralization,not stated in source row,Extracted from full VL variable region in US9296819.
+neutralization_patent2.csv,SEQ_ID_8,ab120,heavy,variable-region-derived CDR3,GRYGIGVSYYDI,12,neutralization,not stated in source row,Extracted from full VH variable region in US9296819.
+selectivity_patent1.csv,seq_id_68,record_68,heavy_like,extracted CDR3,AHTSLGDYFAY,11,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_70,record_70,heavy_like,extracted CDR3,RYHAVFAFASPGG,13,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_71,record_71,heavy_like,extracted CDR3,ARHAFASPG,9,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_72,record_72,light_like,extracted CDR3,LEAQAASRT,9,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_73,record_73,light_like,extracted CDR3,RASQDFGSSGWRDRR,15,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_75,record_75,heavy_like,extracted CDR3,ARHDGYPFAY,10,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_80,record_80,heavy_like,extracted CDR3,ARSLTSEDSALGYPFAY,17,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_81,record_81,heavy_like,extracted CDR3,ARHDGYPFAYASG,13,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent1.csv,seq_id_82,record_82,heavy_like,extracted CDR3,LRSLTSEDLHDGYPFAY,17,selectivity,not stated in extracted source row,Extracted from patent-derived sequence in selectivity_patent1.csv.
+selectivity_patent2.csv,SEQ_ID_7,ab120,light,variable-region-derived CDR3,QSSQSLYNKN,10,selectivity,misfolded PrP with little or no PrPC binding,Extracted from full VL variable region; source note explicitly describes misfolded PrP selectivity.
+selectivity_patent2.csv,SEQ_ID_8,ab120,heavy,variable-region-derived CDR3,GRYGIGVSYYDI,12,selectivity,misfolded PrP with little or no PrPC binding,Extracted from full VH variable region; source note explicitly describes misfolded PrP selectivity.
+BBB_cross_patent1.csv,SEQ_ID_35+36,BBB_cross_patent1,heavy,CDR3,EAYWGQGTTTVSA,13,BBB_proxy,no prion target stated,Heavy CDR3 reconstructed from SEQ ID NO:35 and 36 in BBB source.
+BBB_cross_patent1.csv,SEQ_ID_42,BBB_cross_patent1,light,CDR3,LQYSSSPT,8,BBB_proxy,no prion target stated,Light CDR3 from BBB source sequence listing.
